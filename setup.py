@@ -17,5 +17,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['ML_toolbox'],
-    install_requires=['opencv-python, matplotlib, numpy'],
+    install_requires=['opencv-python', 'matplotlib', 'numpy'],
 )
