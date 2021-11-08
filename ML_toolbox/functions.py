@@ -11,5 +11,3 @@ def plot_side_by_side(image1,image2,label1,label2):
 #     ax2.set_axis_off
     ax2.imshow(image2)
     return True
-
-plot_side_by_side(image1=image,image2=added_image,label1="Original Image",label2="Added Image")
